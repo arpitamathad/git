@@ -1,0 +1,4 @@
+Automate the following scenario
+1.open the browser
+2.goto flipkart.com
+3.print all the price displayed in the page which are starts with From or Now text.
