@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CA4A-012B
+
+ Directory of C:\Users\TYSS\Desktop\Shiran
+
+05-02-2019  10:31    <DIR>          .
+05-02-2019  10:31    <DIR>          ..
+05-02-2019  10:31                 0 shiv.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  130,298,540,032 bytes free
